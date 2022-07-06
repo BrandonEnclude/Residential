@@ -5,6 +5,9 @@ project:
         name: Residential
         namespace: rezi672022
         api_version: '54.0'
+    dependencies:
+        # eCASS
+        - version_id: 04t6M000000HrwT
     git:
         default_branch: 'main'
     source_format: sfdx
