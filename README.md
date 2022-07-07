@@ -1,7 +1,6 @@
 # Residential
 
-Add a brief description of this project here, in Markdown format.
-It will be shown on the main page of the project's GitHub repository.
+A proof of concept for creating dependent packages using CumulusCI. This package is a second-generation package with a dependency on eCASS, a first-generation package.
 
 ## Development
 
